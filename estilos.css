@@ -5,7 +5,7 @@
 
 /* aca comineza el estilo del headder */
 
-.cabeza{background-image: url(https://fondosmil.com/fondo/16212.jpg); background-repeat: no-repeat;}
+.cabeza{background-image: url(https://www.xtrafondos.com/descargar.php?id=4625&resolucion=2560x1440); background-repeat: no-repeat;}
 .h1marca{
     font-size: 750%; 
     text-align: center; 
@@ -69,7 +69,7 @@
 
 .parrafopie{
     text-align: center; 
-    color: rgb(242, 238, 238); 
+    color: rgb(0, 0, 0); 
     text-decoration: double; 
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     font-style: oblique;
@@ -145,6 +145,6 @@ svg{
 	100% {stroke-dashoffset: -35%;}
 }
 
-.pie{background-repeat: no-repeat; position: relative; background-image: url(https://fondosmil.com/fondo/16212.jpg); margin-top: 2%;}
+.pie{background-repeat: no-repeat; position: relative; background-image: url(https://i.pinimg.com/originals/d5/f1/a8/d5f1a875cc674cb0d7d2d4b9efa34c90.jpg); margin-top: 2%;}
 
 /* FORMULARIO CONTACTO DE LA PAGINA CONTACTO */
