@@ -239,17 +239,81 @@ h5 {
 .callesucursal {
     color: white
 }
-.accordion-button{
-    color: black; 
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; 
-    font-style: oblique; 
-    font-size:xx-large; 
+
+.accordion-button {
+    color: black;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-style: oblique;
+    font-size: xx-large;
     background-color: white;
 }
 
-.btn-primary{color: black; 
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; 
-    font-style: oblique; 
-    font-size:xx-large; 
+.btn-primary {
+    color: black;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-style: oblique;
+    font-size: xx-large;
     background-color: white;
+}
+
+.btnagregar {
+
+    color: black;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-style: oblique;
+    font-size: large;
+    background-color: white;
+    position: absolute;
+    bottom: 5%;
+
+}
+
+.card-text {
+    position: absolute;
+    bottom: 15%;
+    right: 27%;
+}
+
+.btnborrar {
+    position: absolute;
+    right: 1%;
+    top: 3%;
+    border-style: double;
+    border-radius: 50%;
+
+
+    color: #fff;
+    background-color: #dc3545;
+    border-color: #dc3545;
+
+}
+
+.btnborrar:hover {
+    color: #fff;
+    background: #bb2d3b;
+    border-color: #b02a37;
+
+}
+
+.btnborrar:focus {
+    color: #fff;
+    background: #bb2d3b;
+    border-color: #b02a37;
+    box-shadow: rgb(225, 83, 97);
+
+}
+
+.btnborrar:active {
+    color: #fff;
+    background: #b02a37;
+    border-color: #a52834;
+    shadow: inset 0 3px 5px rgba(0, 0, 0, 0.125);
+
+}
+
+.btnborrar:disabled {
+    color: #fff;
+    background: #dc3545;
+    border-color: #dc3545;
+
 }
